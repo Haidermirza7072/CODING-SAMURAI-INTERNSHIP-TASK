@@ -1,6 +1,5 @@
 # CODING-SAMURAI-INTERNSHIP-TASK
 
-
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Haider+Abbas+Mirza;MERN+Stack+Developer;AI+Automation+Engineer;Building+AI-Powered+Applications;Generative+AI+Enthusiast;Open+Source+Learner;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
@@ -13,7 +12,64 @@
 >
 > Passionate about building scalable full-stack applications, AI-powered automation, and solving real-world problems using modern technologies.
 
+---
 
+# 🚀 Featured Projects
+
+## 🌐 Personal Portfolio Website
+
+A modern, responsive and professional portfolio website showcasing my skills, education, projects, certifications, and contact information. Designed with a clean UI and smooth user experience to create a strong online presence.
+
+### ✨ Features
+
+- 👨‍💻 Professional Portfolio Design
+- 📱 Fully Responsive Layout
+- 🎨 Modern UI/UX
+- 📂 Featured Projects Section
+- 🛠 Skills & Technologies Showcase
+- 👤 About Me Section
+- 📄 Resume Download
+- 📞 Contact Form
+- 🔗 Social Media Integration
+- ⚡ Smooth Scrolling Animations
+- 🚀 Fast Loading Performance
+
+### 🛠 Tech Stack
+
+HTML • CSS • JavaScript • Bootstrap
+
+### 🔗 Links
+
+- **🌐 Live Demo:** https://haiderprofolio.netlify.app/
+- **💻 GitHub:** https://github.com/Haidermirza7072/CODING-SAMURAI-INTERNSHIP-TASK
+
+---
+
+## ✅ To-Do List Application
+
+A responsive task management application that allows users to efficiently organize daily tasks with a clean, simple and user-friendly interface. All tasks are stored locally so they remain available even after refreshing the browser.
+
+### ✨ Features
+
+- ➕ Add New Tasks
+- ✏️ Edit Existing Tasks
+- 🗑 Delete Tasks
+- ✔ Mark Tasks as Completed
+- 💾 Local Storage Support
+- 🌙 Dark & Light Mode
+- 📱 Fully Responsive Design
+- 🔄 Instant Task Updates
+- 🎯 Clean and Minimal UI
+- ⚡ Fast and Lightweight
+
+### 🛠 Tech Stack
+
+React.js • JavaScript • HTML • CSS • Local Storage
+
+### 🔗 Links
+
+- **🌐 Live Demo:** https://haidertodolist.netlify.app/
+- **💻 GitHub:** https://github.com/Haidermirza7072/CODING-SAMURAI-INTERNSHIP-TASK
 
 ---
 
@@ -42,4 +98,3 @@ If you like my projects, consider giving them a ⭐.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </p>
-
